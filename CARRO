@@ -1,0 +1,6 @@
+INSERT INTO Carros (NOME, COR, ANO,CODCOMBUSTÍVEL)
+VALUES 
+    ('BMW', 'VERMELHO', '2022', 1),
+    ('AUDI', 'BRANCO', 2018, 3),
+    ('MERCEDES', 'ROSA', 2020, 4),
+    ('CHEVROLET', 'PRETO', 1999, 5);
