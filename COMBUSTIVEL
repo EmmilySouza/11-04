@@ -1,0 +1,5 @@
+INSERT INTO Combustível (CÓDIGO, DESCRIÇÃO, VALOR, FORNECEDOR)
+VALUES (1, 'gasolina', 100.00, 'Petrobrás'),
+(2, 'alcool', 130.00, 'Petrobrás'),
+(3, 'flex', 30.00, 'Shell'),
+(4, 'flex', 80.00, 'Shell');
